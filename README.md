@@ -39,7 +39,7 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 
 ### 📲 Contact Information  
 
-📫 Linkedin: https://www.linkedin.com/in/carlosmario-pro/
+📫 Linkedin: <a href="https://www.linkedin.com/in/carlosmario-pro/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/carlosmario-pro/</a>
 
 📫 Email: cmario.reyesp@gmail.com
 <br/>
