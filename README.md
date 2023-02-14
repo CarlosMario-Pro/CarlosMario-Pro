@@ -28,7 +28,7 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 
 • GitHub
 <br/>  
-
+<br/> 
 
 ### 📲 Contact Information  
 
