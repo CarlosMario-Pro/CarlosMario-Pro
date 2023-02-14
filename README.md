@@ -40,7 +40,8 @@ I'm currently improving my skills learning Python and React Native.
 Linkedin: https://www.linkedin.com/in/carlosmario-pro/
 
 Email: cmario.reyesp@gmail.com
-<br/> 
+<br/>
+<br/>
 
 <div align="center">  
 <a href="https://github.com/CarlosMario-Pro" target="_blank">
