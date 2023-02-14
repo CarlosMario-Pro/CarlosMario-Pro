@@ -30,6 +30,11 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 <br/>  
 <br/> 
 
+
+I'm currently improving my skills learning Python and React Native.
+<br/> 
+
+
 ### 📲 Contact Information  
 
 Linkedin: https://www.linkedin.com/in/carlosmario-pro/
