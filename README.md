@@ -33,7 +33,7 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 <br/> 
 
 
-I'm currently improving my skills learning Python and React Native.
+✅ I'm currently improving my skills learning Python and React Native.
 <br/> 
 <br/>
 
