@@ -68,11 +68,13 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 </td>
 </tr>
 </table>
-<br/>  
+<br/>
+
 
 ### 📲 Contact Information  
 
 Linkedin: https://www.linkedin.com/in/carlosmario-pro/
+
 Email: cmario.reyesp@gmail.com  
 
 <div align="center">  
