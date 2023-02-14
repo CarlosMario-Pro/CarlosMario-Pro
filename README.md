@@ -1,14 +1,10 @@
 ### <div align="center">I'm Carlos Mario 🚀</div>  
   
 I am a Full Stack Developer, I can work comfortably in both Backend and Frontend, I have the ability and creativity to design the graphical interface of web applications, applying various special effects from my repertoire to make the site more attractive and interactive, thus improving the user experience.  
-  
-<br/> 
 <br/> 
 
-### 🌱What is my goal?  
+### 🌱 What is my goal?  
 My main goal is to impact the world with code, proposing solutions to the needs present in society. I really enjoy programming, I am passionate about expanding my knowledge and I am constantly learning to constantly improve.  
-  
-<br/> 
 <br/> 
 
 ### ⚡ What technologies do I use?  
@@ -31,15 +27,15 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 • Figma
 
 • GitHub
-
 <br/>  
-<br/> 
+
 
 ### 📲 Contact Information  
 
 Linkedin: https://www.linkedin.com/in/carlosmario-pro/
 
-Email: cmario.reyesp@gmail.com  
+Email: cmario.reyesp@gmail.com
+<br/> 
 
 <div align="center">  
 <a href="https://github.com/CarlosMario-Pro" target="_blank">
@@ -52,6 +48,8 @@ Email: cmario.reyesp@gmail.com
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
+<br/> 
+
 
 ## My Skill Set  
 <table>
@@ -83,6 +81,3 @@ Email: cmario.reyesp@gmail.com
 </tr>
 </table>
 <br/>
-
-
-
