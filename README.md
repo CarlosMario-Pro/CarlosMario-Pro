@@ -14,9 +14,9 @@ My main goal is to impact the world with code, proposing solutions to the needs 
 
 • JavaScript ES6 | TypeScript
 
-• React.JS | Redux | Next.JS
+• React.JS | React Native | Redux | Next.JS
 
-• Node.JS | Express.JS
+• Node.JS | Express.JS | Nest.JS
 
 • MongoDB | PostgreSQL | Sequelize
 
